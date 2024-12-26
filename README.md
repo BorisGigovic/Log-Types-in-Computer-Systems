@@ -1,4 +1,4 @@
-# Log-Types-in-Computer-Systems
+# Log Types in Computer Systems
 Logs provide detailed records of system activities and can be used to track the performance, security, and behavior of various components within a system.  
 
 This comprehensive guide will delve into the different types of logs, their implementation, tips and tricks for effective log management, examples of use, and how to ensure full functionality. We will also include examples of solutions and conclude with a section of frequently asked questions. Additionally, we will highlight training opportunities offered by Eccentrix for those seeking to deepen their understanding of this topic. 
